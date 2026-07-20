@@ -26,7 +26,7 @@ Each project focuses on strengthening my understanding of modern web technologie
 |:--:|----------------------|:----------------:|
 | 01 | Portfolio Website | ✅ Completed |
 | 02 | Food Website | ✅ Completed |
-| 03 | Landing Page | ⏳ Coming Soon |
+| 03 | Landing Page | ✅ Completed |
 | 04 | Calculator | ⏳ Coming Soon |
 | 05 | To-Do App | ⏳ Coming Soon |
 
