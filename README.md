@@ -61,7 +61,7 @@ Frontend-Showcase-01
 ├── Portfolio/
 ├── Food-Website/
 ├── Landing-Page/
-├── Calculator/
+├── Netflix-clone/
 └── ToDo-App/
 ```
 
